@@ -1,0 +1,3 @@
+﻿OPENAI_API_KEY="ChatGPT_TOKEN______________________________________"
+TELEGRAM_BOT_TOKEN="_______________________________________________"
+ALLOWED_TELEGRAM_USER_IDS="*"
